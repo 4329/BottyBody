@@ -1,0 +1,117 @@
+{
+	"name": "Octagon",
+	"components": [
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [175, 125],
+			"sizePx": [40, 40],
+			"sourceIndex": 4
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [225, 125],
+			"sizePx": [40, 40],
+			"sourceIndex": 5
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [100, 175],
+			"sizePx": [40, 40],
+			"sourceIndex": 3
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [75, 225],
+			"sizePx": [40, 40],
+			"sourceIndex": 2
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [300, 175],
+			"sizePx": [40, 40],
+			"sourceIndex": 6
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [325, 225],
+			"sizePx": [40, 40],
+			"sourceIndex": 7
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [100, 300],
+			"sizePx": [40, 40],
+			"sourceIndex": 1
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [125, 350],
+			"sizePx": [40, 40],
+			"sourceIndex": 12
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [300, 300],
+			"sizePx": [40, 40],
+			"sourceIndex": 8
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [275, 350],
+			"sizePx": [40, 40],
+			"sourceIndex": 9
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [175, 400],
+			"sizePx": [40, 40],
+			"sourceIndex": 11
+		},
+		{
+			"type": "button",
+			"isYellow": true,
+			"isEllipse": true, 
+			"centerPx": [225, 400],
+			"sizePx": [40, 40],
+			"sourceIndex": 10
+		},
+
+		{
+			"type": "axis",
+			"isYellow": true,
+			"centerPx": [450, 350],
+			"sizePx": [40, 175],
+			"sourceIndex": 0
+		},
+		{
+			"type": "axis",
+			"isYellow": true,
+			"centerPx": [440, 150],
+			"sizePx": [40, 175],
+			"sourceIndex": 1,
+			"sourceRange": [1, -1]
+		}
+	]
+}
